@@ -1,0 +1,4 @@
+/home/fedora/Factory Method/obj/Debug/net10.0/Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedora/Factory Method/obj/Debug/net10.0/Factory Method.AssemblyInfoInputs.cache
+/home/fedora/Factory Method/obj/Debug/net10.0/Factory Method.AssemblyInfo.cs
+/home/fedora/Factory Method/obj/Debug/net10.0/Factory Method.csproj.CoreCompileInputs.cache
